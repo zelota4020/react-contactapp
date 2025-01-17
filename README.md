@@ -9,6 +9,8 @@ This is my first Kotlin project.
 create postgres container:
 <br/>```docker run --name contactapi -p 5432:5432 -e POSTGRES_PASSWORD=Password123. -e POSTGRES_USER=contact-user -e POSTGRES_DB=contactdb -d postgres -c max_prepared_transactions=200```
 
+run `create-table.sql` from resouces/SQL folder.
+
 ### How to build and run
 
 compile/build: ```mvn clean package```

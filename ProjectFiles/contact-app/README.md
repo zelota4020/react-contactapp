@@ -5,7 +5,7 @@ This is a simple contact application that allows you to add, edit, delete and vi
 ### How it's created
 
 ```npm create vite@latest```                (react - typescript)
-<br/>```npm i axios react-router-dom```
+<br/>```npm i axios react-router-dom react-toastify```
 <br/>```npm install```
 
 ### How it starts
